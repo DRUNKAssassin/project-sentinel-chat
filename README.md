@@ -30,8 +30,8 @@ Popular destinations in Jammu & Kashmir (like Gulmarg and Pahalgam) face severe 
 ## Local Setup
 
 1. **Clone the repository:**
-git clone https://github.com/YOUR_USERNAME/project-sentinel-web.git
-cd project-sentinel-web
+git clone https://github.com/DRUNKAssassin/project-sentinel-chat.git
+cd project-sentinel-chat
 
 2. **Install dependencies:**
 npm install
